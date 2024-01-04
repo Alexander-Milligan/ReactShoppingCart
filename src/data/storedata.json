@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Milk",
+    "price": 1.49,
+    "imageURL": "./images/Milk.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Bread",
+    "price": 1.29,
+    "imageURL": "./images/Bread.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Suger",
+    "price": 0.89,
+    "imageURL": "./images/Suger.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Margarine",
+    "price": 1.49,
+    "imageURL": "./images/Margarine.jpeg"
+  }
+]
