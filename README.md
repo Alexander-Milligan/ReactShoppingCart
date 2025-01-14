@@ -11,7 +11,7 @@ Discover the future of online shopping through my new React shopping cart demo, 
 </p>
 
 <h3 align="left">
-    <a href="https://saltirewebsites.com/ReactApplications/ReactShoppingCart/store">Demo Link</a>
+    <a href="https://saltirewebsites.com/ReactApplications/ReactShoppingCart/">Demo Link</a>
 </h3>
 
 <h3 align="left">Connect with me: Alexander0milligan@gmail.com</h3>
